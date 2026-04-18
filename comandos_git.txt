@@ -1,0 +1,3 @@
+ls: lista o que tem no diretório
+dc: muda de diretório
+pwd: mostra o diretório que estou
