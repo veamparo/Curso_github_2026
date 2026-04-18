@@ -4,3 +4,5 @@ pwd: mostra o diretório que estou
 cat: mostra o que tem dentro do arquivo
 rm: apaga o arquivo
 rm-rf.git: apaga a pasta do arquivo do tipo forçado
+
+Etapas do git

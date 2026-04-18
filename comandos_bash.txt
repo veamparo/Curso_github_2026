@@ -1,1 +1,2 @@
 git log: mostra o histórico do commit
+adicionar novos comandos
