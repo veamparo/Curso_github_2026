@@ -1,1 +1,6 @@
 Este e um novo arquivo copia da branch main
+
+Comandos secundários
+
+Para levar para branch main, fazer
+git merge secundaria, lembrar de estar na main
