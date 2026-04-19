@@ -1,3 +1,4 @@
-Novo arquivo01: atualizar o arquivo para novas etapas
+Novo arquivo 1: atualizar o arquivo para novas etapas
 
 - Criar e selecionar um arquivo para armazenar as etapas do git
+
