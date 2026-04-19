@@ -1,8 +1,13 @@
-ls: lista o que tem no diretório
-dc: muda de diretório
-pwd: mostra o diretório que estou
-cat: mostra o que tem dentro do arquivo
-rm: apaga o arquivo
-rm-rf.git: apaga a pasta do arquivo do tipo forçado
+ls: Lista o que tem no diretório
+dc: Muda de diretório
+pwd: Mostra o diretório que estou
+cat: Mostra o que tem dentro do arquivo
+rm: Apaga o arquivo
+rm-rf.git: Apaga a pasta do arquivo do tipo forçado
 
 Etapas do git
+
+git init. : para iniciar o versionamento dos arquivos
+git checkout -b: para criar uma nova branch como copia da main
+git add arquivo: para sinalizar o arquivo que foi feita a mudança
+git commito -m "": commit e escrever o que foi alterado
